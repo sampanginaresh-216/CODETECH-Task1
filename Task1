@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <div class="box">
+        <nav class="navbar">
+            <div class="navdiv">
+                <div class="logo"><a href="#">Naresh</a></div>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Gallery</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="box1">
+            <div class="box2">
+                <h1 class="heading">
+                    Hello'its me<br><span class="span">Sampangi Naresh</span><br>
+                    And I'am a<br><span class="span">Frontend Developer</span>
+                </h1>
+                <p class="para">
+                    I'am probably the most passionate desiner you will ever get to work
+                    with.If you have a great project that needs some amazing skills,i am your guy
+                </p>
+
+            </div>
+            <div class="box2">
+                <img src="https://i.ibb.co/ZKk7Xr3/po-removebg-preview.png" class="image">
+            </div>
+        </div>
+        <div class="box3">
+            <div class="box4">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" class="image1">
+            </div>
+            <div class="box4">
+                <img src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464" class="image1">
+            </div>
+            <div class="box4">
+                <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" class="image1">
+            </div>
+            <div class="box4">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" class="image1">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
